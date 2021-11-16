@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://D:/lib/jline-2.14.4.jar!/" />
+      <root url="jar://D:/lib/scala-compiler.jar!/" />
+      <root url="jar://D:/lib/scala-library.jar!/" />
+      <root url="jar://D:/lib/scala-parser-combinators_2.12-1.0.6.jar!/" />
+      <root url="jar://D:/lib/scala-reflect.jar!/" />
+      <root url="jar://D:/lib/scala-swing_2.12-2.0.0.jar!/" />
+      <root url="jar://D:/lib/scala-xml_2.12-1.0.6.jar!/" />
+      <root url="jar://D:/lib/scalap-2.12.3.jar!/" />
+      <root url="file://D:/spark-3.0.1-bin-hadoop2.7/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/spark-3.0.1-bin-hadoop2.7/jars" />
+    </SOURCES>
+    <jarDirectory url="file://D:/spark-3.0.1-bin-hadoop2.7/jars" recursive="false" />
+    <jarDirectory url="file://D:/spark-3.0.1-bin-hadoop2.7/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
